@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikita Yadav
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Nikita Yadav
+- 🌱 I’m currently learning Laravel
 - 
 - 📫
 - 😄
